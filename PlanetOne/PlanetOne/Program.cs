@@ -10,6 +10,9 @@ namespace PlanetOne
     {
         static void Main(string[] args)
         {
+
+            // Githubozás 
+
             for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine("GitHub");
