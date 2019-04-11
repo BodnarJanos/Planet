@@ -10,7 +10,12 @@ namespace PlanetOne
     {
         static void Main(string[] args)
         {
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("GitHub");
+            }
             Console.WriteLine("Planet Mercury");
+
             Console.ReadLine();
         }
     }
